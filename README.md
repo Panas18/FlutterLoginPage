@@ -16,4 +16,6 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 # Screenshot
-![Image](https://github.com/Panas18/FlutterLoginPage/blob/master/screenshot.jpg)
+<div align = 'center'>
+<img src = './screenshot.jpg' width = '40%' height = '40%' />
+</div>
